@@ -1,4 +1,5 @@
 # bai6
 
-OOP
-Abc
+class Person {
+  private String name;
+}
