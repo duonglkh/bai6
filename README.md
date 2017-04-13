@@ -1,5 +1,16 @@
 # bai6
 
-OOP
+class Person {
+  private String name;
+}
+## Title
 
-Duonglkh
+```javascript
+var i = 0;
+var test = function (){
+}
+
+## Bai moi them vao o day
+## Lam Den Day
+
+//Comment cua letrongtanbs
